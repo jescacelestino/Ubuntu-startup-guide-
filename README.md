@@ -43,6 +43,15 @@
 
     $ sudo apt-get install geany -y    
     
+ 
+## ⚡ &nbsp; GNOME TOOLS
+
+- Open Terminal (CTRL + ALT + T) 
+
+`Type the command:`
+
+    $ sudo apt-get install gnome-tweak-tool -y  
+    
 ## Configurar a tecla "PrtSc" para usar o flameshot
 https://askubuntu.com/questions/1036473/how-to-change-screenshot-application-to-flameshot-on-ubuntu-18-04
 
